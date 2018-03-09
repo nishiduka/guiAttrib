@@ -1,0 +1,10 @@
+c:\users\thomas\source\repos\Atalho\Atalho\bin\Debug\Atalho.exe.config
+c:\users\thomas\source\repos\Atalho\Atalho\bin\Debug\Atalho.exe
+c:\users\thomas\source\repos\Atalho\Atalho\bin\Debug\Atalho.pdb
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.csprojResolveAssemblyReference.cache
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.Form1.resources
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.Properties.Resources.resources
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.csproj.GenerateResource.Cache
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.csproj.CoreCompileInputs.cache
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.exe
+c:\users\thomas\source\repos\Atalho\Atalho\obj\Debug\Atalho.pdb
